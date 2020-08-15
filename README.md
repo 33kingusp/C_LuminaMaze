@@ -1,14 +1,13 @@
 ﻿# ルミナと迷宮の秘宝
 C言語の授業で制作した”ルミナと迷宮の秘宝”というゲームです。  
   
-Unityアレンジ版 → https://github.com/33kingusp/LuminaMaze  
-  
 ## 動作環境
 Linux Ubuntu  
 Windows10版Ubuntu  
 以上でのみ動作確認。  
 gccコンパイラが必要です。  
-  
+また、cursesライブラリが必要です。
+
 ## コンパイル方法
 メイクファイルが同梱されているので  
 	$ make  
